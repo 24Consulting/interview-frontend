@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"octref.vetur",
+		"wayou.vscode-todo-highlight",
+		"stylelint.vscode-stylelint",
+		"philsinatra.nested-comments"
+	]
+}

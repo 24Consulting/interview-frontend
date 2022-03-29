@@ -1,0 +1,16 @@
+{
+	"css.validate": false,
+	"scss.validate": false,
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.detectIndentation": false,
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": true,
+		"source.fixAll": true,
+		"source.fixAll.eslint": true,
+		"source.fixAll.stylelint": true
+	},
+	"stylelint.validate": ["css", "scss"],
+	"eslint.validate": ["javascript", "typescript"],
+	"vetur.validation.template": false
+}

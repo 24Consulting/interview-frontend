@@ -1,0 +1,26 @@
+{
+    "todo": [
+        {
+            "id": "1",
+            "title": "Lorem ipsum dolor",
+            "state": "todo"
+        },
+        {
+            "id": "2",
+            "title": "Lorem ipsum dolor",
+            "state": "doing"
+        },
+        {
+            "id": "3",
+            "title": "Lorem ipsum dolor",
+            "state": "done"
+        }
+    ],
+    "users": [
+        {
+            "email": "johndoe@24consulting.it",
+            "password": "$2a$10$s/sPhzxph6setFYcpi/YVOVWFj7/j6Mu4Z1H235.VeOjZyDkp1cSi",
+            "id": 1
+        }
+    ]
+}
