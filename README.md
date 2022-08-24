@@ -7,22 +7,27 @@ Complete all tasks and submit a pull-request to proceed.
 Clone this repo and install project dependencies.
 
 ```bash
-npm install
+pnpm i
+# npm install
 ```
 Start web and mock API server running concurrently start and dev scripts.
 
 ```bash
-npm run dev
+pnpm dev
+# npm run dev
+```
+And in a new terminal window:
 
-# in a new tab
-
-npm run start
+```bash
+pnpm start
+# npm run start
 ```
 
 Or simply:
 
 ```bash
-npm run start-dev
+pnpm start-dev
+# npm run start-dev
 ```
 
 Now your dev sever respond to [http://localhost:3000/](http://localhost:3000/) and your mock API server to [http://localhost:3001/todo](http://localhost:3001/todo)
