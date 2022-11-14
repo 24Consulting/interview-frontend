@@ -11,22 +11,22 @@
         "start-dev": "concurrently \"npm run dev\" \"npm run start\""
     },
     "devDependencies": {
-        "@typescript-eslint/eslint-plugin": "5.33.0",
-        "@typescript-eslint/parser": "^5.34.0",
-        "concurrently": "^7.3.0",
-        "eslint": "^8.22.0",
+        "@typescript-eslint/eslint-plugin": "5.42.1",
+        "@typescript-eslint/parser": "^5.42.1",
+        "concurrently": "^7.5.0",
+        "eslint": "^8.27.0",
         "eslint-config-prettier": "^8.5.0",
-        "json-server": "^0.17.0",
+        "json-server": "^0.17.1",
         "json-server-auth": "^2.1.0",
-        "postcss": "^8.3.3",
+        "postcss": "^8.4.19",
         "prettier": "^2.7.1",
-        "sass": "^1.54.5",
-        "stylelint": "^14.11.0",
-        "stylelint-config-prettier": "^9.0.3",
-        "stylelint-config-standard-scss": "^5.0.0",
-        "typescript": "^4.7.4",
-        "vite": "^3.0.9",
+        "sass": "^1.56.1",
+        "stylelint": "^14.15.0",
+        "stylelint-config-prettier": "^9.0.4",
+        "stylelint-config-standard-scss": "^6.1.0",
+        "typescript": "^4.8.4",
+        "vite": "^3.2.3",
         "vite-plugin-eslint": "^1.8.1",
-        "vite-plugin-stylelint": "^3.0.7"
+        "vite-plugin-stylelint": "^3.0.8"
     }
 }
